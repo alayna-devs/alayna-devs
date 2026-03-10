@@ -1,6 +1,8 @@
 <img src="/github-name.svg" alt="github name" width="300" height="200">
 <img src="/software-engineer.svg" alt="software engineer" width="200" height="300">
 
+<h1>Welcome! 👋</h1>
+I'm a CS student studying the foundations of computing; while building full-stack web applications and learning something new every day.
 
 <br>
 <h1>💻 Improving With These Tools and Technologies </h1>
