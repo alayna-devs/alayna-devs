@@ -1,6 +1,6 @@
 
 
-<h1>💻 Improving Skills With These Tools and Technologies </h1>
+<h1>💻 Improving With These Tools and Technologies </h1>
 <div style="display: flex; align-items: flex-start; align: center">
 <table align="center">
   <tr>
@@ -97,7 +97,7 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=alayna-devs&theme=synthwave&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=alayna-devs&theme=synthwave&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
---
+---
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
