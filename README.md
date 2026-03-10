@@ -1,8 +1,5 @@
-<img src="/hi-there.svg" alt="github name" width="300" height="300">
-<br>
-
 <img src="/github-name.svg" alt="github name" width="300" height="200">
-<img src="/software-engineer.svg" alt="github name" width="300" height="300">
+<img src="/software-engineer.svg" alt="github name" width="200" height="200">
 
 <br>
 <h1>💻 Improving With These Tools and Technologies </h1>
