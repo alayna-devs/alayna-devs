@@ -1,4 +1,4 @@
-
+<img src="/name.svg" alt="github name" width="300" height="200">
 
 <h1>💻 Improving With These Tools and Technologies </h1>
 <div style="display: flex; align-items: flex-start; align: center">
