@@ -91,6 +91,17 @@
 <br><br>
 </div>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alayna-devs&show_icons=true&theme=tokyonight)
+---
 
-<img src="https://raw.githubusercontent.com/alayna-devs/snk/output-svg-only/github-contribution-grid-snake.svg" alt="e" style="max-width: 100%;">
+![](https://github-readme-stats.vercel.app/api?username=alayna-devs&theme=synthwave&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=alayna-devs&theme=synthwave&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=alayna-devs&theme=synthwave&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+--
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+---
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
