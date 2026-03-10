@@ -1,5 +1,4 @@
 <img src="/github-name.svg" alt="github name" width="300" height="200">
-<img src="/software-engineer.svg" alt="software engineer" width="200" height="300">
 
 <h1>Welcome! 👋</h1>
 I'm a CS student studying the foundations of computing; while building full-stack web applications and learning something new every day.
@@ -97,6 +96,7 @@ I'm a CS student studying the foundations of computing; while building full-stac
 </div>
 
 ---
+<img src="/software-engineer.svg" alt="software engineer" width="200" height="300">
 
 ![](https://github-readme-stats.vercel.app/api?username=alayna-devs&theme=synthwave&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=alayna-devs&theme=synthwave&hide_border=false)<br/>
