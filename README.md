@@ -21,10 +21,6 @@
       <br>TypeScript
     </td>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" />
-      <br>MySQL
-    </td>
-    <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="65" height="65" />
       <br>AWS
     </td>
@@ -44,12 +40,12 @@
         <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="tailwind" />
       <br>Tailwind
     </td>
-    </tr>
-  <tr>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=jquery" width="48" height="48" alt="jQuery" />
       <br>jQuery
     </td>
+    </tr>
+  <tr>
       <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
       <br>MongoDB
@@ -93,6 +89,8 @@
  </tr>
 </table>
 <br><br>
-
-
 </div>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alayna-devs&show_icons=true&theme=tokyonight)
+
+<img src="https://raw.githubusercontent.com/alayna-devs/snk/output-svg-only/github-contribution-grid-snake.svg" alt="e" style="max-width: 100%;">
