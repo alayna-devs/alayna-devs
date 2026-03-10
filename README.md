@@ -1,7 +1,11 @@
-<img src="/hi-there.svg" alt="github name" width="500" height="400">
-<img src="/name.svg" alt="github name" width="300" height="200">
-<img src="/software-engineer.svg" alt="github name" width="200" height="100">
-
+<img src="/hi-there.svg" alt="github name" width="400" height="300">
+<br>
+---
+<img src="/github-name.svg" alt="github name" width="300" height="200">
+<img src="/software-engineer.svg" alt="github name" width="400" height="300">
+<br>
+---
+<br>
 <h1>💻 Improving With These Tools and Technologies </h1>
 <div style="display: flex; align-items: flex-start; align: center">
 <table align="center">
